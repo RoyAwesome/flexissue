@@ -1,6 +1,6 @@
 
 #include <iostream>
-//#include "flecs.h"
+//#include "flecs.h" //Uncommnet this and it wont spit anything out
 
 int main(int argc, char* argv[])
 {
